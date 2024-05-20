@@ -1,5 +1,5 @@
 from athlete import Athlete, Observer
-from training_modes import TrainingMode
+from training_mode import TrainingMode
 from utils.logger import logger
 
 

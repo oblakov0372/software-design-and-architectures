@@ -2,7 +2,7 @@ import random
 import time
 from instructor import Instructor
 from athlete import Athlete
-from training_modes import BasicTrainingMode, CardioTrainingMode, StrengthTrainingMode
+from training_mode import BasicTrainingMode, CardioTrainingMode, StrengthTrainingMode
 from training_program import (
     BasicTrainingProgram,
     CardioDecorator,
